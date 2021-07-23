@@ -1,8 +1,6 @@
 # dmn-event-listeners
 
 Event Listeners for Decision Manager
-- WorkingMemoryListener (Rule Runtime Event Listener)
-- RuleTraceEventListener (Agenda Event Listener)
 - DMNTraceEventListener (DMN Event listener)
 
 ### Installing Event Listener Artifact
